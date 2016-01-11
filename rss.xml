@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kasperkamperman]]></title>
+        <description><![CDATA[kasperkamperman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 12:09:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Queen - Bohemian Rhapsody (Official Video)]]></title>
+            <description><![CDATA[<article><h1>Queen - Bohemian Rhapsody (Official Video)</h1><p>Subscribe to the Official Queen Channel Here http://bit.ly/Subscribe2Queen Queen - 'Bohemian Rhapsody' Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com The official 'Bohemian Rhapsody' music video. Taken from Queen - 'Greatest Video Hits 1'. Please favourite/like and subscribe! Lyrics below: Is this the real life?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98c1d8c15ae077ba25828a8ab8bf1ec1624c779a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=fJ9rUzIMcZQ</link>
+            <guid isPermaLink="false">94e363ff-637e-4fb2-ade9-105f6cd59105</guid>
+            <pubDate>Mon, 11 Jan 2016 12:09:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
