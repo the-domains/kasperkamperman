@@ -2,6 +2,7 @@ name: kasperkamperman
 favicon: null
 layout_spectrum: 0.25286
 typography_spectrum: 0.8837122006807476
+title: Dit is de titel.
 cta:
   domain: null
   bucket: null
